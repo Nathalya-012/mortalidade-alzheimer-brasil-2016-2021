@@ -29,6 +29,4 @@ figures/: Gráficos gerados, incluindo a tendência da Taxa de Mortalidade Ajust
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para detalhes.
 
 ✍️ Citação
-Se este código ou os dados forem úteis para a sua pesquisa, por favor, cite o artigo original:
-
-NATHALYA, R. D. Mortalidade por Doença de Alzheimer no Brasil: Um Estudo Observacional e Descritivo, 2016-2021. 2026. Disponível em: https://github.com/Nathalya-012/mortalidade-alzheimer-brasil-2016-2021
+Se este código ou os dados forem úteis para a sua pesquisa, por favor, cite o artigo original.
