@@ -18,12 +18,6 @@ Pacotes Principais: ggplot2 (visualização), dplyr (manipulação de dados), br
 Estatística: Regressão Log-Linear para o cálculo da Variação Percentual Anual (VPA).
 Software: BioEstat 5.0
 
-📁 Estrutura do Repositório
-
-data/: Contém os dados secundários obtidos do Sistema de Informações sobre Mortalidade (SIM/DataSUS) e estimativas populacionais do IBGE.
-scripts/: Scripts em R para geração da figura da tendência da taxa de mortalidade no Brasil.
-figures/: Gráficos gerados, incluindo a tendência da Taxa de Mortalidade Ajustada por estado e região.
-
 
 📜 Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para detalhes.
