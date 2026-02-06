@@ -1,2 +1,33 @@
-# mortalidade-alzheimer-brasil-2016-2021
-Este repositório contém os dados brutos, processados e materiais suplementares do estudo observacional e descritivo sobre as tendências de mortalidade por Doença de Alzheimer no Brasil. O objetivo deste trabalho foi analisar o perfil epidemiológico e as tendências temporais da mortalidade por Alzheimer (CID-10: G30) no período de 2016 a 2021. 
+
+#Mortalidade por Doença de Alzheimer no Brasil (2016-2021)
+Este repositório contém o conjunto de dados, scripts de análise e visualizações referentes ao artigo "Mortalidade por Doença de Alzheimer no Brasil: Um Estudo Observacional e Descritivo, 2016-2021".
+
+O objetivo deste projeto é analisar o perfil epidemiológico e as tendências temporais da mortalidade por Alzheimer no território brasileiro, estratificando os dados por sexo, faixa etária e região geográfica.
+
+📊 Resumo dos Achados
+
+Total de Óbitos: 131.382 registros identificados (CID-10: G30).
+Perfil Predominante: Mulheres (64,6%) e idosos com 80 anos ou mais (76,8%).
+Distribuição Geográfica: Forte concentração nas regiões Sudeste e Sul (72% dos óbitos).
+Tendências: Crescimento significativo na maioria dos estados, com padrões heterogêneos na região Norte.
+
+🛠️ Tecnologias e Ferramentas
+Linguagem: R
+Pacotes Principais: ggplot2 (visualização), dplyr (manipulação de dados), broom (modelagem estatística).
+Estatística: Regressão Log-Linear para o cálculo da Variação Percentual Anual (VPA).
+Software: BioEstat 5.0
+
+📁 Estrutura do Repositório
+
+data/: Contém os dados secundários obtidos do Sistema de Informações sobre Mortalidade (SIM/DataSUS) e estimativas populacionais do IBGE.
+scripts/: Scripts em R para geração da figura da tendência da taxa de mortalidade no Brasil.
+figures/: Gráficos gerados, incluindo a tendência da Taxa de Mortalidade Ajustada por estado e região.
+
+
+📜 Licença
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para detalhes.
+
+✍️ Citação
+Se este código ou os dados forem úteis para a sua pesquisa, por favor, cite o artigo original:
+
+NATHALYA, R. D. Mortalidade por Doença de Alzheimer no Brasil: Um Estudo Observacional e Descritivo, 2016-2021. 2026. Disponível em: https://github.com/Nathalya-012/mortalidade-alzheimer-brasil-2016-2021
