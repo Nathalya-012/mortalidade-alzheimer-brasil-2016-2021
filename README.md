@@ -21,6 +21,5 @@ Software: BioEstat 5.0
 📜 Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para detalhes.
 
-✍️ Citação
-Se este código ou os dados forem úteis para a sua pesquisa, por favor, cite o artigo original.
+
 
